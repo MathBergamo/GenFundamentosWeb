@@ -1,0 +1,21 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.meu-botao {
+    background-color: #4c59af; 
+    color: #ffffff; 
+    padding: 14px 20px; 
+    border: none; 
+    border-radius: 8px; 
+    text-align: center;
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 12px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+}
+
+.meu-botao:hover {
+    background-color: #45a049;
+}
